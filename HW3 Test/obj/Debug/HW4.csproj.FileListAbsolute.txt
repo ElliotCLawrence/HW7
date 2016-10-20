@@ -1,0 +1,9 @@
+C:\Users\Elliot\Documents\Visual Studio 2015\Projects\HW4\HW3 Test\bin\Debug\HW3 Test.exe.config
+C:\Users\Elliot\Documents\Visual Studio 2015\Projects\HW4\HW3 Test\obj\Debug\HW3 Test.exe
+C:\Users\Elliot\Documents\Visual Studio 2015\Projects\HW4\HW3 Test\obj\Debug\HW3 Test.pdb
+C:\Users\Elliot\Documents\Visual Studio 2015\Projects\HW4\HW3 Test\obj\Debug\HW4.csprojResolveAssemblyReference.cache
+C:\Users\Elliot\Documents\Visual Studio 2015\Projects\HW4\HW3 Test\bin\Debug\HW3 Test.exe
+C:\Users\Elliot\Documents\Visual Studio 2015\Projects\HW4\HW3 Test\bin\Debug\HW3 Test.pdb
+C:\Users\Elliot\Documents\Visual Studio 2015\Projects\HW7\HW3 Test\bin\Debug\HW3 Test.exe.config
+C:\Users\Elliot\Documents\Visual Studio 2015\Projects\HW7\HW3 Test\obj\Debug\HW3 Test.exe
+C:\Users\Elliot\Documents\Visual Studio 2015\Projects\HW7\HW3 Test\obj\Debug\HW3 Test.pdb
